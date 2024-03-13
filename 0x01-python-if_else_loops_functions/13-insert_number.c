@@ -1,9 +1,8 @@
 #include "lists.h"
 #include <stdlib.h>
-#include <stddef.h>
 
 /**
- * insert_node - inserts node in sored list
+ * insert_node - inserts node in sorted list
  * @head: address of head pointer
  * @number: number to insert
  * Return: inserted node
